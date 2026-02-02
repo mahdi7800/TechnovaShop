@@ -1,0 +1,12 @@
+<?php
+
+class PostExcerpt {
+     public static function tns_post_excerpt(): string {
+	     $post_text  = get_the_excerpt();
+		 return mb_substr($post_text,0,110). ' ' . '....' ;
+     }
+	public static function tns_post_excerpt_slider(): string {
+		$post_text  = get_the_excerpt();
+		return mb_substr($post_text,0,100). ' ' . '....' ;
+	}
+}
