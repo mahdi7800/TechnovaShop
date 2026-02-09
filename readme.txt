@@ -1,155 +1,106 @@
 === TechNovaShop ===
-Contributors: Mahdi Davodi
-Author URI: https://mahdidavoodi.ir
-Tags: woocommerce, custom-widgets, mega-menu, newsletter, theme-options, rtl, responsive, smtp-ready, uikit, bootstrap, font-awesome, owl-carousel, related-posts, wishlist, compare, ajax, seo
+Contributors: mahdi davoodi
+Tags: woocommerce, rtl, responsive, mega-menu, wishlist, compare, ajax, seo
 Requires at least: 6.4
-Tested up to: 6.7
+Tested up to: 6.9.1
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-== Description ==
+TechNovaShop is a professional WooCommerce-ready WordPress theme designed for online shops, corporate websites, and content-driven platforms.
+Built with modern UI frameworks and optimized for performance, SEO, and RTL languages.
 
-TechNovaShop یک قالب حرفه‌ای فروشگاهی – محتوایی است که با جدیدترین استانداردهای وردپرس و WooCommerce طراحی شده است. این قالب با تمرکز بر سرعت، سئو، UI مدرن و امکانات اختصاصی ساخته شده و برای فروشگاه‌های آنلاین، سایت‌های شرکتی، وبلاگ‌های حرفه‌ای و وب‌سایت‌های چندمنظوره کاملاً مناسب است.
+Developed by Shanul Engineering Group.
 
-این محصول توسط **گروه مهندسی شانول (Shanol Engineering Group)** طراحی و توسعه داده شده است.
+=== نسخه فارسی ===
+TechNovaShop یک قالب حرفه‌ای فروشگاهی و چندمنظوره وردپرس است که برای فروشگاه‌های آنلاین، سایت‌های شرکتی و سایت‌های محتوایی طراحی شده است.
+این قالب با استفاده از فریمورک‌های مدرن UI و بهینه‌سازی برای سرعت، سئو و زبان‌های راست‌چین ساخته شده است.
 
-**پیش‌نیازهای ضروری قالب:**
-- افزونه **WooCommerce**
-- افزونه **Parsidate** (برای تاریخ فارسی)
+توسعه توسط گروه مهندسی شانول وردپرس.
 
-**مهم‌ترین قابلیت‌ها:**
-• فروشگاه کامل با WooCommerce  
-• صفحه محصول کاملاً سفارشی + پشتیبانی از محصولات متغیر  
-• سیستم Wishlist و Compare بدون افزونه  
-• سیستم خبرنامه اختصاصی متصل به دیتابیس  
-• پنل تنظیمات حرفه‌ای  
-• مگامنو چندسطحی  
-• فوترساز اختصاصی  
-• ابزارک‌های اختصاصی  
-• طراحی واکنش‌گرا + پشتیبانی کامل از RTL  
-• سرعت بالا و سئو داخلی
+== Description / توضیحات ==
 
----
+TechNovaShop is a multipurpose WooCommerce theme focused on speed, clean UI, and flexibility.
 
-== Features ==
+It includes custom product pages, internal wishlist and compare systems, newsletter module, mega menu, footer builder, and professional theme options panel.
 
-= ویژگی‌های فروشگاهی =
-* پشتیبانی کامل از WooCommerce
-* صفحه محصول اختصاصی (Single Product Custom)
-* پشتیبانی از محصولات ساده و متغیر
-* نمایش موجودی، رنگ‌بندی، سایز و ویژگی‌های انتخابی
-* محصولات مرتبط، پرفروش، جدیدترین و تخفیف‌دار
-* سیستم مقایسه (Compare) داخلی
-* لیست علاقه‌مندی Ajax
-* فیلتر محصولات با طراحی سفارشی
+The theme is fully responsive and RTL-ready.
 
-= ویژگی‌های ظاهری و UI =
-* طراحی مدرن با Bootstrap 5 و UIkit
-* آیکون‌های Font Awesome
-* اسلایدر و کاروسل‌های Owl Carousel
-* کاملاً واکنش‌گرا (موبایل، تبلت، دسکتاپ)
+TechNovaShop یک قالب چندمنظوره ووکامرس با تمرکز بر سرعت، رابط کاربری تمیز و انعطاف‌پذیری است.
 
-= بلاگ و محتوا =
-* بلاگ حرفه‌ای با طراحی جذاب
-* مطالب مرتبط و نوشته‌های محبوب
-* استایل‌های مختلف برای آرشیو و تک‌نوشته
+شامل صفحه محصول سفارشی، سیستم داخلی علاقه‌مندی و مقایسه، ماژول خبرنامه، مگامنو، فوترساز و پنل تنظیمات حرفه‌ای است.
 
-= امکانات مدیریتی =
-* پنل تنظیمات حرفه‌ای بدون افزونه جانبی
-* SMTP داخلی برای ارسال ایمیل
-* ابزارک‌های اختصاصی برای سایدبار و فوتر
-* متاباکس‌های سفارشی برای پست‌ها و محصولات
-* کنترل کامل مگامنو و فوترساز
+قالب کاملاً واکنش‌گرا و آماده RTL است.
 
-= امکانات فنی =
-* کدنویسی استاندارد و قابل توسعه
-* سئو داخلی (On-page SEO)
-* سازگار با افزونه‌های کش و سئو
-* پشتیبانی از Child Theme
-* عملکرد پایدار در نسخه‌های جدید وردپرس
+= Required Plugins / افزونه‌های ضروری =
 
----
+* WooCommerce
+* Parsidate (برای پشتیبانی از تاریخ فارسی)
 
-== Compatible With ==
+= Main Features / قابلیت‌های اصلی =
 
-* Bootstrap 5
-* UIkit
-* Font Awesome
-* Owl Carousel
-* jQuery
-* Sticky JS
-* notyf.js
-* WooCommerce (آخرین نسخه)
+* Full WooCommerce integration / پشتیبانی کامل ووکامرس
+* Custom single product layout / صفحه محصول سفارشی
+* Simple & variable product support / پشتیبانی از محصولات ساده و متغیر
+* Internal Wishlist & Compare (no extra plugins) / سیستم علاقه‌مندی و مقایسه داخلی بدون افزونه
+* AJAX-based product interactions / تعاملات محصول با AJAX
+* Custom newsletter system / سیستم خبرنامه سفارشی
+* Professional theme options panel / پنل تنظیمات حرفه‌ای
+* Mega menu system / سیستم مگامنو
+* Footer builder / فوترساز
+* Custom widgets / ابزارک‌های اختصاصی
+* RTL ready / پشتیبانی از RTL
+* Responsive design / طراحی واکنش‌گرا
+* On-page SEO optimization / بهینه‌سازی سئو داخلی
 
----
+== Installation / نصب ==
 
-== Installation ==
+1. Upload the theme folder to `/wp-content/themes/technova-shop/`
+   پوشه قالب را در مسیر `/wp-content/themes/technova-shop/` آپلود کنید.
+2. Activate **TechNovaShop** from Appearance → Themes
+   قالب **TechNovaShop** را از بخش نمایش → پوسته‌ها فعال کنید.
+3. Install and activate required plugins / نصب و فعال‌سازی افزونه‌های ضروری:
+   * WooCommerce
+   * Parsidate
+4. Go to Theme Options and configure settings / وارد بخش تنظیمات قالب شوید و تنظیمات دلخواه را اعمال کنید.
+5. Visit Settings → Permalinks and click Save / به بخش پیوندهای یکتا رفته و روی "ذخیره تغییرات" کلیک کنید.
 
-1. پوشه قالب را در مسیر  
-   `/wp-content/themes/technova-shop/`  
-   آپلود کنید.
-2. وارد پیشخوان وردپرس شوید.
-3. قالب **TechNovaShop** را از بخش *نمایش → پوسته‌ها* فعال کنید.
-4. برای عملکرد صحیح قالب، نصب و فعال‌سازی افزونه‌های زیر ضروری است:
-   - WooCommerce  
-   - Parsidate (پارسیدیت – فعال‌سازی تاریخ فارسی)
-5. وارد بخش **تنظیمات قالب** شوید و تنظیمات دلخواه را اعمال کنید.
-6. در پایان، به بخش **پیوندهای یکتا** رفته و یک بار روی "ذخیره تغییرات" کلیک کنید.
+== Frequently Asked Questions / سوالات متداول ==
 
----
+= Does the theme require external wishlist or compare plugins? / آیا قالب به افزونه خارجی Wishlist یا Compare نیاز دارد؟ =
+No / خیر، هر دو سیستم داخلی هستند.
 
-== License Activation ==
+= Is WooCommerce required? / آیا ووکامرس ضروری است؟ =
+Yes / بله.
 
-برای فعال‌سازی امکانات کامل قالب:
+= Is RTL supported? / آیا قالب از RTL پشتیبانی می‌کند؟ =
+Yes / بله، کامل.
 
-1. وارد پیشخوان شوید  
-2. مسیر **تنظیمات قالب → فعال‌سازی لایسنس**  
-3. وارد کردن کد لایسنس  
-4. کلیک روی "فعال‌سازی"
+= Is Child Theme included? / آیا قالب کودک همراه است؟ =
+Yes / بله.
 
----
+= Compatible with cache and SEO plugins? / آیا با افزونه‌های کش و سئو سازگار است؟ =
+Yes / بله، با LiteSpeed، RankMath و Yoast تست شده است.
 
-== Frequently Asked Questions ==
+== Screenshots / تصاویر ==
 
-= آیا قالب به افزونه Wishlist یا Compare نیاز دارد؟ =
-خیر. هر دو قابلیت به صورت کاملاً داخلی کدنویسی شده‌اند.
+1. Homepage / صفحه اصلی
+2. Custom Product Page / صفحه محصول سفارشی
+3. Mega Menu / مگامنو
+4. Theme Options Panel / پنل تنظیمات قالب
+5. Wishlist System / سیستم علاقه‌مندی
+6. Compare Products / سیستم مقایسه
+7. Blog Layout / بلاگ
+8. Footer Builder / فوترساز
 
-= آیا قالب برای فروشگاه مناسب است؟ =
-بله. تمام بخش‌ها بر اساس استانداردهای WooCommerce توسعه داده شده‌اند.
-
-= آیا قالب از RTL پشتیبانی می‌کند؟ =
-بله. قالب کاملاً برای زبان‌های راست‌چین بهینه‌سازی شده است.
-
-= آیا سازگار با افزونه‌های کش و سئو است؟ =
-بله. با LiteSpeed Cache، WP Super Cache، RankMath و Yoast SEO سازگار است.
-
-= آیا Child Theme همراه قالب است؟ =
-بله. نسخه Child Theme ارائه شده است.
-
----
-
-== Screenshots ==
-1. صفحه اصلی فروشگاهی
-2. صفحه محصول سفارشی
-3. مگامنو حرفه‌ای
-4. پنل تنظیمات قالب
-5. لیست علاقه‌مندی Ajax
-6. سیستم مقایسه محصولات
-7. بلاگ حرفه‌ای
-8. فوترساز اختصاصی
-
----
-
-== Changelog ==
+== Changelog / تغییرات ==
 
 = 1.0.0 =
-* انتشار اولین نسخه رسمی قالب
-* اضافه شدن پنل تنظیمات حرفه‌ای
-* اضافه شدن سیستم خبرنامه اختصاصی
-* اضافه شدن Wishlist + Compare داخلی
-* طراحی کامل صفحه محصول
-* ابزارک‌های اختصاصی
-* مگامنو و فوترساز
-* بهینه‌سازی سرعت و سئو داخلی
+* Initial release / انتشار اولیه
+* Theme options panel / پنل تنظیمات قالب
+* Newsletter system / سیستم خبرنامه
+* Wishlist & Compare / علاقه‌مندی و مقایسه
+* Custom product page / صفحه محصول سفارشی
+* Mega menu & footer builder / مگامنو و فوترساز
+* Performance and SEO optimizations / بهینه‌سازی سرعت و سئو
