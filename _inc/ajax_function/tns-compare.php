@@ -27,7 +27,7 @@ function tns_compare() {
             ['%d', '%d']
         );
         if ( $deleted ) {
-            wp_send_json(['success' => true, 'message' => 'محصول از لیست علاقه‌مندی‌ها حذف شد.'], 200);
+            wp_send_json(['success' => true, 'message' => 'محصول از مقایسه محصولات حذف شد.'], 200);
         } else {
             wp_send_json(['error' => true, 'message' => 'خطا در حذف اطلاعات!'], 500);
         }
@@ -43,7 +43,7 @@ function tns_compare() {
 
         $stmt = $wpdb->insert($table_name,$data , $format);
         if ($stmt){
-            wp_send_json(['success'=>true,'message'=>'محصول به لیست علاقه مندی ها اضافه شد!'],200);
+            wp_send_json(['success'=>true,'message'=>'محصول به لیست مقایسه محصولات  اضافه شد!'],200);
         }else{
             wp_send_json(['error' => true, 'message' => 'خطا در درج داده است! '], 403);
         }
