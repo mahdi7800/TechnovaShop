@@ -7,6 +7,7 @@ Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Date : 2026/2/10
 
 TechNovaShop is a professional WooCommerce-ready WordPress theme designed for online shops, corporate websites, and content-driven platforms.
 Built with modern UI frameworks and optimized for performance, SEO, and RTL languages.
@@ -104,3 +105,4 @@ Yes / بله، با LiteSpeed، RankMath و Yoast تست شده است.
 * Custom product page / صفحه محصول سفارشی
 * Mega menu & footer builder / مگامنو و فوترساز
 * Performance and SEO optimizations / بهینه‌سازی سرعت و سئو
+
